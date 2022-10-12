@@ -23,7 +23,6 @@ class _IntroScreenState extends State<IntroScreen> {
     TextStyle(color: Colors.brown, fontSize: 35, letterSpacing: 0),
     bodyTextStyle:
     TextStyle(letterSpacing: 0, fontSize: 15, color: Colors.white),
-    descriptionPadding: EdgeInsets.fromLTRB(0.0, 16.0, 0.0, 0.0),
     pageColor: Colors.white,
     imagePadding: EdgeInsets.zero,
     contentMargin: EdgeInsets.zero,

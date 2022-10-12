@@ -24,23 +24,20 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.3
-  introduction_screen: ^2.1.0
+  cupertino_icons: ^1.0.5
+  introduction_screen: ^3.0.2
   intl: ^0.17.0                  # For Date Conversions
-  provider: ^5.0.0               # For Provider
-  dio: ^4.0.0                    # For Network Connection
-  shared_preferences: ^2.0.6     # For Shared Preferences
-  fluttertoast: ^8.0.7           # For Dislay Toast
-  connectivity_plus: ^1.0.6      # To Check Network Connectivity
-  get_it: ^7.1.3                 # For Dependency Injection
-  app_settings: ^4.1.0           # To Open App Settings
-  device_info: ^2.0.2            # To Get Device Info
-  cached_network_image: ^2.4.1   # For Image Caching
-  image_picker: ^0.8.2           # To Pick Image From Camera and Gallery
-  shimmer: ^1.1.2                # For Skeleton View
+  provider: ^6.0.4
+  dio: ^4.0.6
+  shared_preferences: ^2.0.15
+  fluttertoast: ^8.0.9
+  connectivity_plus: ^2.3.9
+  get_it: ^7.2.0
+  app_settings: ^4.1.8
+  device_info: ^2.0.3
+  cached_network_image: ^3.2.2
+  image_picker: ^0.8.6
+  shimmer: ^2.0.0
 
 dev_dependencies:
   flutter_test:
